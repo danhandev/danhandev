@@ -12,10 +12,10 @@
 |Date|Contents|
 |------|---|
 |2021.03 ~ |Hongik Univ. computer engineering|
-|2021.03 ~ |Developer Community [Blzdev](https://github.com/BlazingDevs) management|
+|2021.03 ~ |Developer Community [Blzdev](https://github.com/BlazingDevs) manager|
 |2021.08 ~ 2021.10|Connect Wi-Fi Automatically, [Hong_Wifi](https://github.com/HongWifi) iOS Developer|
 |2022.01 ~ 2022.03| Weekly Attendance Book, [AGGA](https://github.com/sehandev/dongan-youth) DB Developer|
-|2022.04 ~ |Hongik Algorithm Research Club [HI-ARC](https://www.hi-arc.org/) Management|
+|2022.04 ~ |Hongik Algorithm Research Club [HI-ARC](https://www.hi-arc.org/) Manager|
 |2022.03 ~ 2022.09|LIKELION Univ 10th Hongik Univ Backend Developer|
 |2022.06 ~ 2022.09|Custormized Restaurant Map, [Eatpository](https://github.com/2022Eatpository/Eatpository) Backend Developer|
 |2022.07 ~ |Google Developer Student Clubs Hongik Univ. 1st Core Member|
