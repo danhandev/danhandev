@@ -9,7 +9,8 @@
 |2022.03 ~ 2023.03|홍익 알고리즘 학회 [HI-ARC](https://www.hi-arc.org/) 운영진|
 |2022.03 ~ 2022.09|멋쟁이사자처럼 대학 10기 백엔드 파트|
 |2022.06 ~ 2022.09|맛집 큐레이터 서비스 [Eatpository](https://github.com/danhandev/Eatpository) 백엔드 개발자|
-|2022.07 ~ 2023.09|[Google Developer Student Clubs](https://github.com/GDSC-Hongik) 홍익대 22-23 운영진|     
+|2022.07 ~ 2023.09|[Google Developer Student Clubs](https://github.com/GDSC-Hongik) 홍익대 22-23 운영진|
+|2023.11 ~ 2024.08|웹툰 창장자를 위한 협업 플랫폼 [Laiteu](https://laiteu.com/) 백엔드 개발자|    
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=danhandev)](https://solved.ac/danhandev/)
 
